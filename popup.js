@@ -1,4 +1,4 @@
-// We get the picture of Rick Astely with the url: https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1024
+// We get the picture of Rick Astely with the URL: https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1024
 
 var PerformReplacementImages = document.getElementById("change-color");
 
