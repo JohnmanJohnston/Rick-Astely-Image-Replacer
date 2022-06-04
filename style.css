@@ -1,0 +1,22 @@
+html, body {
+    width: 25em;
+    height: 10em;
+}
+
+button {
+    background: rgb(30, 30, 30);
+    color: whitesmoke;
+    width: 10em;
+    height: 4em;
+    font-size: 1.5em;
+    cursor: pointer;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button:hover {
+    background: rgb(50, 50, 50);
+}

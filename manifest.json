@@ -1,0 +1,13 @@
+{
+    "name": "Rick Astely Image Replacer",
+    "version": "1.0.0",
+    "description": "A Chrome extension that changes all the images on the current webpage, to an image of Rick Astely.",
+    "manifest_version": 3,
+
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+
+    
+}
